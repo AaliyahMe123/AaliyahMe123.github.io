@@ -1,0 +1,44 @@
+body{
+  text-align: center;
+  color: rgb(128, 0, 0);
+  background-image: url("https://s-media-cache-ak0.pinimg.com/736x/4a/1b/0b/4a1b0b996f5864e0d948c3a035c4ea7c--reflection-photography-amazing-photography.jpg");
+  background-repeat: no-repeat;
+  background-color: rgb(83, 41, 45);
+  background-position: center;
+  background-size: 600px;
+}
+
+main{
+  text-align: center;
+  min-height: 80vh;
+}
+header{
+
+}
+h3{
+  text-align: left;
+  color: rgb(255, 255, 255);
+  font-family: fantasy;
+}
+h1{
+  border-style: solid;
+  border-color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
+  font-family: fantasy;
+}
+h2{
+  color: rgb(255, 255, 255);
+  font-family: fantasy;
+}
+footer{
+  text-align: center;
+  border-style: solid;
+  border-color: rgb(0, 0, 0);
+  font-family: fantasy;
+
+}
+p{
+  text-align: left;
+  color: rgb(225, 225, 225);
+  font-family: fantasy;
+}
